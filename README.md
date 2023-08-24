@@ -3,7 +3,7 @@
 
 ###  Background and Objective:
 
-In this project, I attempt to explore the world of text mining and Natural Language Processing (NLP) in the context of Microsoft Azure cloud reviews. My objective is to leverage the Latent Dirichlet Allocation Topic Modeling technique to analyze the textual data aggregated from a particualr high impact reviews platform, capterra.com to uncover key trends that maatter to users of the product.
+In this project, I attempt to explore the world of text mining and Natural Language Processing (NLP) in the context of Microsoft Azure cloud reviews. My objective is to leverage the Latent Dirichlet Allocation Topic Modeling technique to analyze the textual data aggregated from a particualr high impact reviews platform, capterra.com to uncover key trends that matter to users of the product.
 
 
 LDA (Latent Dirichlet Allocation) is a NLP (Natural Language Processing) technique. Specifically, it's a topic modeling technique used to discover the latent topics that are present in a collection of text documents.
