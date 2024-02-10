@@ -3,7 +3,7 @@
 
 ###  Background and Objective:
 
-My objective is to leverage the Latent Dirichlet Allocation Topic Modeling technique to analyze the textual data aggregated from a particualr high impact reviews platform, capterra.com to uncover key trends that matter to users of the product. 
+My objective is to leverage the Latent Dirichlet Allocation, a Natural Language Processing(NLP) Topic Modeling technique to analyze the textual data aggregated from a particualr high impact reviews platform, capterra.com to uncover key trends that matter to users of the product. 
 
 
 ### Business Case Argument:
